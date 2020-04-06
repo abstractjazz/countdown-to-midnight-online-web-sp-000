@@ -5,5 +5,6 @@ def countdown(current_time)
 until current_time == 0
   puts "#{current_time} SECONDS"
  current_time -= 1
+ "HAPPY NEW YEAR!"
   end
 end
